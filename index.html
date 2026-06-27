@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BloomLab Internal Catalog</title>
+  <meta name="description" content="Product Catalog & Sales Assistant internal BloomLab berbasis HTML, CSS, dan JavaScript murni.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="mobile-header">
+    <button class="icon-button" id="openSidebar" aria-label="Buka menu">☰</button>
+    <div class="brand-mini" aria-label="BloomLab">
+      <span class="brand-mark">✺</span>
+      <span>BloomLab</span>
+    </div>
+  </div>
+
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar" aria-label="Navigasi utama">
+      <div class="sidebar-top">
+        <button class="icon-button close-mobile" id="closeSidebar" aria-label="Tutup menu">×</button>
+        <a href="#dashboard" class="brand" aria-label="BloomLab Dashboard">
+          <span class="brand-mark">✺</span>
+          <span>
+            <strong>BloomLab</strong>
+            <small>Internal Sales Assistant</small>
+          </span>
+        </a>
+      </div>
+
+      <nav class="menu" id="menu">
+        <a href="#dashboard" class="nav-link active" data-route="dashboard">🏠 Dashboard</a>
+        <a href="#products" class="nav-link" data-route="products">📦 Semua Produk</a>
+        <a href="#complaints" class="nav-link" data-route="complaints">🩺 Pilih Produk Sesuai Keluhan</a>
+        <a href="#ingredients" class="nav-link" data-route="ingredients">🧪 Kandungan Aktif</a>
+        <a href="#compare" class="nav-link" data-route="compare">📊 Perbandingan Produk</a>
+        <a href="#faq" class="nav-link" data-route="faq">❓ FAQ Produk</a>
+      </nav>
+
+      <div class="sidebar-card">
+        <p class="eyebrow">Catatan Data</p>
+        <p>Data bisa diedit di <strong>products.json</strong> tanpa menyentuh kode HTML/CSS/JS.</p>
+      </div>
+    </aside>
+
+    <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
+
+    <main class="main-content">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow" id="pageEyebrow">Internal Catalog</p>
+          <h1 id="pageTitle">Dashboard</h1>
+        </div>
+        <label class="global-search" for="globalSearch">
+          <span>⌕</span>
+          <input id="globalSearch" type="search" placeholder="Cari produk, SKU, kategori, keluhan, kandungan..." autocomplete="off">
+        </label>
+      </header>
+
+      <section id="app" class="page fade-in" aria-live="polite"></section>
+    </main>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="script.js"></script>
+</body>
+</html>

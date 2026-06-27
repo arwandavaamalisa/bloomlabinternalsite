@@ -1,0 +1,415 @@
+{
+  "meta": {
+    "name": "BloomLab Product Catalog & Sales Assistant",
+    "language": "id",
+    "updatedBy": "Perlu dilengkapi oleh tim BloomLab.",
+    "dataPolicy": "Informasi produk diambil dari halaman publik BloomLab yang tersedia saat template dibuat. Data SKU, harga terbaru, stok, nomor registrasi lengkap, dan klaim yang belum ada di halaman publik wajib dilengkapi/ditinjau oleh tim BloomLab.",
+    "legalNote": "Produk suplemen, bukan obat. Hasil dapat berbeda. Konsultasikan dengan tenaga kesehatan jika hamil, menyusui, memiliki kondisi medis, atau sedang mengonsumsi obat."
+  },
+  "quickFilters": ["Pencernaan", "Diet", "Wanita", "Pria", "Beauty", "Imunitas", "Tidur", "Metabolisme"],
+  "products": [
+    {
+      "id": "gutreset",
+      "name": "GutReset",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Natural Probiotics",
+      "price": "Rp 250.000",
+      "content": "1 pouch isi 28 sachet",
+      "certification": "PIRT/SPP-IRT",
+      "image": "images/gutreset.png",
+      "sourceUrl": "https://bloomlab.id/gutreset/",
+      "tags": ["Pencernaan", "Imunitas", "Tidur", "Beauty"],
+      "complaints": ["Sulit BAB", "Perut buncit", "Kulit kusam", "Imunitas", "Stress", "Sulit tidur", "Berat badan"],
+      "highlight": "Kombinasi 3 jenis kefir premium untuk mendukung keseimbangan mikrobioma usus dan rutinitas pencernaan harian.",
+      "description": "GutReset adalah suplemen probiotik triple kefir dari BloomLab untuk mendukung keseimbangan mikrobioma usus, rutinitas pencernaan, dan energi harian sebagai bagian dari pola hidup sehat.",
+      "benefits": [
+        "Mendukung keseimbangan mikrobioma usus.",
+        "Mendukung rutinitas pencernaan harian.",
+        "Mendukung energi harian sebagai bagian dari pola hidup sehat.",
+        "Dapat menjadi rutinitas pendukung untuk pencernaan, tidur, mood, dan kulit; hasil tiap orang dapat berbeda."
+      ],
+      "activeIngredients": ["Kefir susu sapi", "Kefir susu kambing", "Kefir air"],
+      "consumption": [
+        "Buka sachet.",
+        "Tuang langsung ke mulut, lalu minum air putih.",
+        "Paling baik setelah makan; boleh dikonsumsi kapan saja asal rutin.",
+        "Jangan dicampur dengan makanan/minuman panas di atas 40°C."
+      ],
+      "targetUsers": [
+        "Pengguna yang ingin mendukung kesehatan usus dan rutinitas pencernaan harian.",
+        "Pengguna yang sering merasa kembung, BAB tidak rapi, mudah capek, atau ingin membangun rutinitas gut health."
+      ],
+      "notRecommended": [
+        "Ibu hamil/menyusui atau pengguna dengan kondisi medis: konsultasikan dengan tenaga kesehatan terlebih dahulu.",
+        "Pengguna yang sedang minum antibiotik: beri jeda dan ikuti saran tenaga kesehatan.",
+        "Pengguna dengan sensitivitas laktosa berat: mulai dari porsi kecil dan hentikan bila tidak nyaman."
+      ],
+      "advantages": ["Triple kefir", "Format sachet", "Rutinitas probiotik harian"],
+      "faq": [
+        {"q": "Apakah GutReset aman untuk ibu hamil dan menyusui?", "a": "Untuk ibu hamil dan menyusui, konsultasikan dulu dengan tenaga kesehatan agar sesuai dengan kondisi masing-masing."},
+        {"q": "Kapan waktu terbaik konsumsi GutReset?", "a": "Paling baik setelah makan supaya asam lambung tidak terlalu kuat. Yang penting konsumsi rutin."},
+        {"q": "Bisa dicampur makanan/minuman lain?", "a": "Bisa, asal tidak panas. Suhu panas di atas 40°C dapat merusak probiotik."}
+      ]
+    },
+    {
+      "id": "metabloom",
+      "name": "MetaBloom",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Prebiotics",
+      "price": "Rp 285.000",
+      "content": "1 box isi 16 sachet",
+      "certification": "BPOM + Halal",
+      "image": "images/metabloom.png",
+      "sourceUrl": "https://bloomlab.id/metabloom/",
+      "tags": ["Diet", "Pencernaan", "Metabolisme"],
+      "complaints": ["Berat badan", "Sulit BAB", "Perut buncit"],
+      "highlight": "10g serat prebiotik per sachet untuk membantu perut terasa lebih penuh sebelum makan.",
+      "description": "MetaBloom adalah minuman serat prebiotik untuk membantu diet terasa lebih ringan, mendukung rasa penuh sebelum makan, membantu tahan ngemil, dan mendukung rutinitas BAB yang lebih rapi tanpa pencahar.",
+      "benefits": [
+        "Membantu perut terasa lebih penuh sebelum makan.",
+        "Membantu tahan ngemil dan craving harian.",
+        "Mendukung rutinitas BAB lebih rapi tanpa pencahar.",
+        "Mendukung rutinitas makan yang lebih konsisten."
+      ],
+      "activeIngredients": ["Psyllium husk", "Inulin", "FOS", "Polifenol", "Serat prebiotik"],
+      "consumption": [
+        "Campurkan 1 sachet ke dalam 150–250 ml air dingin.",
+        "Kocok/aduk hingga larut.",
+        "Minum 15–20 menit sebelum makan pagi atau siang untuk hasil optimal.",
+        "Jika lambung sensitif, mulai dari porsi kecil dan minum dekat waktu makan."
+      ],
+      "targetUsers": [
+        "Pengguna yang ingin membangun rutinitas diet serat.",
+        "Pengguna yang cepat lapar, mudah ngemil, atau ingin mendukung rutinitas BAB yang lebih rapi."
+      ],
+      "notRecommended": [
+        "Pengguna dengan maag/GERD berat: mulai dari porsi kecil atau konsultasikan dengan tenaga kesehatan.",
+        "Ibu hamil/menyusui, kondisi medis, atau sedang mengonsumsi obat: konsultasikan dengan tenaga kesehatan.",
+        "Tidak ditujukan sebagai pengganti pola makan seimbang atau terapi medis."
+      ],
+      "advantages": ["10g serat/sachet", "Prebiotik", "Tanpa pencahar", "BPOM + Halal"],
+      "faq": [
+        {"q": "Apakah MetaBloom sudah BPOM dan Halal?", "a": "Ya. MetaBloom tercatat di halaman BloomLab memiliki status BPOM dan Halal."},
+        {"q": "Bagaimana cara minum MetaBloom?", "a": "Campurkan 1 sachet ke dalam 150–250 ml air dingin, kocok hingga larut, lalu minum 15–20 menit sebelum makan."},
+        {"q": "Apakah MetaBloom menyebabkan ketergantungan?", "a": "Tidak. MetaBloom tidak mengandung pencahar; produk ini berbasis serat."}
+      ]
+    },
+    {
+      "id": "lunabloom",
+      "name": "LunaBloom",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Prebiotics",
+      "price": "Rp 398.000",
+      "content": "1 box isi 16 sachet",
+      "certification": "BPOM + Halal",
+      "image": "images/lunabloom.png",
+      "sourceUrl": "https://bloomlab.id/lunabloom/",
+      "tags": ["Beauty", "Wanita", "Pencernaan"],
+      "complaints": ["Kulit kusam", "Jerawat", "Sulit BAB"],
+      "highlight": "5000mg fish collagen tripeptide + 7g serat prebiotik untuk mendukung nutrisi kulit dari dalam.",
+      "description": "LunaBloom adalah minuman kolagen premium dengan prebiotik alami untuk mendukung nutrisi kulit dari dalam, dengan kombinasi collagen, glutathione, vitamin C, dan serat prebiotik.",
+      "benefits": [
+        "Mendukung nutrisi kulit dari dalam.",
+        "Mendukung brightening alami melalui kombinasi glutathione dan vitamin C.",
+        "Mendukung penyerapan nutrisi melalui 7g prebiotik alami.",
+        "Membantu rutinitas beauty berbasis gut health."
+      ],
+      "activeIngredients": ["Fish Collagen Tripeptide", "Glutathione", "Vitamin C", "Inulin", "Psyllium Husk", "Serat prebiotik"],
+      "consumption": [
+        "Campurkan 1 sachet ke dalam 150–250 ml air dingin.",
+        "Kocok hingga larut.",
+        "Minum 15–20 menit sebelum makan pagi atau siang.",
+        "Untuk pengguna maag/GERD, disarankan minum 5–10 menit sebelum makan agar lebih nyaman di lambung."
+      ],
+      "targetUsers": [
+        "Pengguna yang ingin mendukung kulit tampak cerah dari dalam.",
+        "Pengguna yang ingin menggabungkan rutinitas kolagen dengan serat prebiotik."
+      ],
+      "notRecommended": [
+        "Ibu hamil/menyusui, kondisi medis, atau sedang mengonsumsi obat: konsultasikan dengan tenaga kesehatan.",
+        "Pengguna dengan alergi terhadap bahan berbasis ikan/kolagen: cek label dan konsultasikan terlebih dahulu.",
+        "Tidak ditujukan untuk mendiagnosis, mengobati, menyembuhkan, atau mencegah penyakit."
+      ],
+      "advantages": ["5000mg collagen", "Glutathione + vitamin C", "7g prebiotik", "BPOM + Halal"],
+      "faq": [
+        {"q": "Apakah LunaBloom sudah BPOM dan Halal?", "a": "Ya. LunaBloom tercatat di halaman BloomLab sebagai produk BPOM dan Halal."},
+        {"q": "Bagaimana cara minum LunaBloom?", "a": "Campurkan 1 sachet ke dalam 150–250 ml air dingin, kocok hingga larut, lalu minum sebelum makan."},
+        {"q": "Apakah LunaBloom menyebabkan ketergantungan?", "a": "Tidak. LunaBloom tidak mengandung pencahar; produk ini berbasis kolagen dan serat alami premium."}
+      ]
+    },
+    {
+      "id": "hercycle",
+      "name": "HerCycle",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Natural Probiotics",
+      "price": "Rp 325.000",
+      "content": "1 jar 70g",
+      "certification": "PIRT/SPP-IRT",
+      "image": "images/hercycle.webp",
+      "sourceUrl": "https://bloomlab.id/hercycle/",
+      "tags": ["Wanita", "Pencernaan"],
+      "complaints": ["PMS", "Menopause", "Jerawat", "Perut buncit", "Stress"],
+      "highlight": "Kefir probiotik alami + herbal blend untuk rutinitas wanita dalam tantangan 28 hari.",
+      "description": "HerCycle adalah minuman serbuk terdaftar PIRT untuk rutinitas wanita harian, berbasis kefir probiotik alami dan herbal blend untuk membantu siklus lebih mudah diprediksi, PMS lebih terkendali, dan tubuh lebih nyaman menjelang mens.",
+      "benefits": [
+        "Mendukung rutinitas satu siklus penuh selama 28 hari.",
+        "Membantu tubuh memperhatikan sinyal PMS, kram, mood, perut, kulit, energi, dan pola haid.",
+        "Mendukung rutinitas wanita berbasis gut health.",
+        "Bukan peluruh haid, obat hormon, atau terapi penyakit reproduksi."
+      ],
+      "activeIngredients": ["Kefir probiotik alami", "Kedelai panggang", "Fenugreek", "Moringa", "Kacang hijau", "Kakao", "Herbal blend"],
+      "consumption": [
+        "Ambil 1 sendok teh.",
+        "Bisa langsung ke mulut lalu minum air, atau larutkan dengan air suhu ruang.",
+        "Konsumsi 15–20 menit sebelum makan pagi atau malam.",
+        "Kalau lambung sensitif, boleh diminum setelah makan. Hindari air panas."
+      ],
+      "targetUsers": [
+        "Wanita yang ingin membangun rutinitas satu siklus penuh.",
+        "Pengguna yang memperhatikan PMS, kram, mood, perut begah, jerawat mens, energi, dan pola haid."
+      ],
+      "notRecommended": [
+        "Ibu hamil/menyusui: konsultasikan dengan dokter atau bidan sebelum konsumsi.",
+        "Tidak digunakan sebagai peluruh haid instan, obat hormon, atau terapi penyakit reproduksi.",
+        "Pengguna dengan kondisi medis atau obat rutin: konsultasikan dengan tenaga kesehatan."
+      ],
+      "advantages": ["Rutinitas 28 hari", "Kefir probiotik", "Herbal blend", "PIRT"],
+      "faq": [
+        {"q": "HerCycle bisa bikin haid langsung keluar?", "a": "Tidak. HerCycle bukan peluruh haid, bukan obat hormon, dan bukan terapi penyakit reproduksi."},
+        {"q": "Bagaimana cara konsumsi HerCycle?", "a": "Ambil 1 sendok teh. Bisa langsung ke mulut lalu minum air, atau larutkan dengan air suhu ruang. Konsumsi 15–20 menit sebelum makan."},
+        {"q": "Kalau hamil atau menyusui?", "a": "Konsultasikan dulu dengan dokter atau bidan sebelum konsumsi."}
+      ]
+    },
+    {
+      "id": "tummyzen",
+      "name": "TummyZen",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Natural Probiotics",
+      "price": "Rp 300.000",
+      "content": "1 jar isi 70g",
+      "certification": "PIRT/SPP-IRT",
+      "image": "images/tummyzen.png",
+      "sourceUrl": "https://bloomlab.id/tummyzen/",
+      "tags": ["Pencernaan", "Tidur"],
+      "complaints": ["Asam lambung", "Perut buncit", "Sulit tidur"],
+      "highlight": "Probiotik herbal dengan kefir, kunyit, temulawak, dan daun saga untuk mendukung kenyamanan lambung.",
+      "description": "TummyZen adalah suplemen probiotik herbal dari BloomLab yang menggabungkan kefir, kunyit, temulawak, dan daun saga untuk mendukung kenyamanan lambung dan pencernaan harian.",
+      "benefits": [
+        "Mendukung kenyamanan lambung dan pencernaan sensitif.",
+        "Mendukung keseimbangan microbiome pencernaan sebagai rutinitas harian.",
+        "Mendukung kenyamanan makan dan tidur ketika keluhan lambung sering mengganggu; tetap perhatikan tanda bahaya medis.",
+        "Bukan pengganti terapi medis."
+      ],
+      "activeIngredients": ["Kefir", "Kunyit", "Temulawak", "Daun saga"],
+      "consumption": [
+        "Minum 1x sehari, idealnya 30 menit sebelum makan.",
+        "Jika lambung sangat sensitif, boleh diminum setelah makan.",
+        "Ambil 1 sendok teh, masukkan ke mulut, lalu minum air.",
+        "Atau larutkan ke dalam air suhu maksimal 40°C, aduk rata, dan segera habiskan."
+      ],
+      "targetUsers": [
+        "Pengguna dengan lambung sensitif atau rasa tidak nyaman setelah makan.",
+        "Pengguna yang ingin rutinitas pencernaan harian berbasis probiotik dan herbal."
+      ],
+      "notRecommended": [
+        "Anak di bawah 5 tahun: belum direkomendasikan.",
+        "Alergi spesifik, terutama riwayat alergi susu kambing: hindari dan konsultasikan.",
+        "Ibu hamil/menyusui: wajib konsultasi dengan dokter kandungan.",
+        "Gangguan liver/ginjal berat: wajib saran medis.",
+        "Segera cari bantuan medis bila nyeri perut berat, muntah darah, BAB hitam, berat badan turun tanpa sebab, atau gejala lambung tidak membaik."
+      ],
+      "advantages": ["Kefir + herbal", "1x sehari", "Dukungan lambung sensitif", "PIRT"],
+      "faq": [
+        {"q": "Bagaimana cara konsumsi TummyZen?", "a": "Minum 1x sehari, idealnya 30 menit sebelum makan. Jika lambung sensitif, boleh setelah makan."},
+        {"q": "Apakah TummyZen untuk ibu hamil dan menyusui?", "a": "Wajib konsultasi dengan dokter kandungan sebelum konsumsi."},
+        {"q": "Apakah TummyZen pengganti obat lambung?", "a": "Tidak. TummyZen adalah suplemen probiotik herbal, bukan pengganti terapi medis."}
+      ]
+    },
+    {
+      "id": "urazen",
+      "name": "UraZen",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Natural Probiotics",
+      "price": "Perlu dilengkapi oleh tim BloomLab.",
+      "content": "1 jar isi 70g",
+      "certification": "PIRT/SPP-IRT",
+      "image": "images/urazen.webp",
+      "sourceUrl": "https://bloomlab.id/urazen/",
+      "tags": ["Pencernaan", "Metabolisme"],
+      "complaints": ["Metabolisme"],
+      "highlight": "Herbal probiotik dengan kefir, sidaguri, daun salam, seledri, dan kumis kucing untuk rutinitas nutrisi terkait asam urat.",
+      "description": "UraZen adalah suplemen herbal probiotik dari BloomLab yang menggabungkan kefir dengan sidaguri, daun salam, seledri, dan kumis kucing untuk mendukung rutinitas nutrisi orang yang memperhatikan kadar asam urat.",
+      "benefits": [
+        "Mendukung rutinitas nutrisi terkait asam urat.",
+        "Mendukung kenyamanan tubuh sebagai bagian dari pola makan, hidrasi, dan pemantauan lab.",
+        "Mendukung fungsi rutinitas nutrisi dan kesehatan usus.",
+        "Bukan pengganti obat dokter."
+      ],
+      "activeIngredients": ["Kefir", "Sidaguri", "Daun salam", "Seledri", "Kumis kucing"],
+      "consumption": [
+        "Minum 1x sehari, idealnya 30 menit sebelum makan.",
+        "Jika lambung sangat sensitif, boleh diminum setelah makan.",
+        "Ambil 1 sendok teh, masukkan ke mulut, lalu minum air.",
+        "Atau larutkan ke dalam air suhu maksimal 40°C, aduk rata, dan segera habiskan."
+      ],
+      "targetUsers": [
+        "Pengguna yang memperhatikan kadar asam urat dan ingin rutinitas nutrisi pendukung.",
+        "Pengguna yang ingin menggabungkan pola makan, hidrasi, dan pemantauan lab dengan suplemen herbal probiotik."
+      ],
+      "notRecommended": [
+        "Tidak menggantikan obat asam urat dari dokter.",
+        "Ibu hamil/menyusui: konsultasikan dengan dokter kandungan terlebih dahulu.",
+        "Alergi spesifik atau riwayat alergi susu kambing: hindari/konsultasikan.",
+        "Jika sedang minum antibiotik, obat asam urat, atau obat rutin lain, konsultasikan dengan dokter."
+      ],
+      "advantages": ["Kefir + herbal", "Rutinitas asam urat", "PIRT", "1 jar 70g"],
+      "faq": [
+        {"q": "Apakah UraZen bisa menggantikan obat asam urat dari dokter?", "a": "Tidak. UraZen adalah suplemen herbal + probiotik alami, bukan obat."},
+        {"q": "Kapan waktu terbaik mengonsumsi UraZen?", "a": "Idealnya 30 menit sebelum makan 1x sehari. Jika lambung sensitif, konsumsi setelah makan."},
+        {"q": "Bisakah UraZen dicampur dengan minuman lain?", "a": "Bisa asal tidak panas, maksimal 40°C. Hindari mencampur dengan kopi atau teh yang masih panas."}
+      ]
+    },
+    {
+      "id": "supagreen",
+      "name": "Supagreen",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Natural Probiotics",
+      "price": "Rp 325.000",
+      "content": "1 jar 70g",
+      "certification": "PIRT/SPP-IRT",
+      "image": "images/supagreen.png",
+      "sourceUrl": "https://bloomlab.id/supagreen/",
+      "tags": ["Imunitas", "Beauty", "Pencernaan"],
+      "complaints": ["Kulit kusam", "Imunitas", "Perut buncit"],
+      "highlight": "Green barley grass + kefir aktif + moringa + kale + spinach sebagai ritual hijau harian.",
+      "description": "Supagreen membantu menambah asupan hijau harian dengan green barley grass, kefir aktif, moringa, kale, dan spinach; 1 sendok per hari untuk pengguna yang sering skip sayur, gampang drop, dan wajah terlihat kusam.",
+      "benefits": [
+        "Mendukung energi harian lebih stabil sebagai bagian dari asupan hijau rutin.",
+        "Mendukung kulit tampak lebih fresh.",
+        "Membantu menambah asupan hijau harian saat sering skip sayur.",
+        "Rutinitas dibuat praktis: 1 sendok per hari."
+      ],
+      "activeIngredients": ["Green barley grass", "Kefir aktif", "Moringa", "Kale", "Spinach"],
+      "consumption": [
+        "Ambil 1 sendok teh.",
+        "Masukkan bubuk langsung ke mulut, tidak perlu dilarutkan dulu.",
+        "Telan dengan air putih.",
+        "Pilih jam pagi atau siang yang mudah diulang. Jika lambung sensitif, mulai setengah sendok dan minum setelah makan."
+      ],
+      "targetUsers": [
+        "Pengguna yang sering skip sayur dan ingin asupan hijau yang praktis.",
+        "Pengguna yang ingin mendukung energi harian dan tampilan kulit lebih fresh."
+      ],
+      "notRecommended": [
+        "Ibu hamil/menyusui, kondisi medis, atau sedang minum obat: konsultasikan dengan tenaga kesehatan.",
+        "Jika lambung sensitif, mulai dari setengah sendok dan minum setelah makan.",
+        "Tidak ditujukan untuk klaim detox ekstrem atau terapi penyakit."
+      ],
+      "advantages": ["1 sendok per hari", "Green barley + kefir", "Ritual hijau", "PIRT"],
+      "faq": [
+        {"q": "Bisa untuk orang yang jarang makan sayur?", "a": "Bisa. Supagreen dibuat untuk membantu menambah asupan hijau harian saat sering skip sayur."},
+        {"q": "Kapan paling enak diminum?", "a": "Pagi sebelum aktivitas atau siang saat mulai drop. Yang penting rutin di jam yang mudah diulang."},
+        {"q": "Boleh diminum setiap hari?", "a": "Boleh. Supagreen adalah ritual hijau harian dengan green barley grass, kefir aktif, moringa, kale, dan spinach."}
+      ]
+    },
+    {
+      "id": "ricelim",
+      "name": "Ricelim",
+      "sku": "Perlu dilengkapi oleh tim BloomLab.",
+      "category": "Prebiotics",
+      "price": "Mulai Rp 250.000",
+      "content": "1 jar 250g / 500g",
+      "certification": "PIRT/SPP-IRT",
+      "image": "images/ricelim.webp",
+      "sourceUrl": "https://bloomlab.id/ricelim/",
+      "tags": ["Diet", "Metabolisme", "Pencernaan"],
+      "complaints": ["Berat badan", "Sulit BAB", "Metabolisme"],
+      "highlight": "Serat tambahan untuk nasi agar rutinitas makan keluarga lebih sadar serat tanpa mengubah rasa nasi favorit.",
+      "description": "Ricelim adalah serat tambahan dari BloomLab yang ditambahkan ke nasi saat memasak untuk membantu meningkatkan asupan serat harian keluarga dan membuat rutinitas makan lebih sadar serat.",
+      "benefits": [
+        "Membantu meningkatkan kandungan serat pada nasi.",
+        "Mendukung rasa kenyang dan kenyamanan perut setelah makan.",
+        "Mendukung rutinitas makan yang lebih tinggi serat.",
+        "Praktis ditambahkan saat memasak nasi."
+      ],
+      "activeIngredients": ["Serat pangan", "Bahan spesifik Ricelim - perlu dilengkapi oleh tim BloomLab"],
+      "consumption": [
+        "Gunakan 1 sendok makan per 1 gelas nasi yang dimasak.",
+        "Larutkan di air atau langsung aduk di rice cooker.",
+        "Masak nasi seperti biasa dan nikmati."
+      ],
+      "targetUsers": [
+        "Pengguna yang ingin tetap makan nasi sambil menambah serat.",
+        "Keluarga yang mencari solusi praktis untuk rutinitas makan lebih sadar serat.",
+        "Pengguna yang sering cepat lapar setelah makan nasi."
+      ],
+      "notRecommended": [
+        "Penderita diabetes atau kondisi metabolik: gunakan sebagai bagian dari pola makan yang disetujui tenaga kesehatan.",
+        "Ibu hamil/menyusui: konsultasikan dengan dokter atau bidan sebelum menambah suplemen serat.",
+        "Jika belum terbiasa serat tinggi, mulai dari dosis kecil. Jika sedang diare, hentikan sementara."
+      ],
+      "advantages": ["Dicampur saat masak nasi", "Bebas gluten/laktosa menurut data produk", "Praktis untuk keluarga", "PIRT"],
+      "faq": [
+        {"q": "Bagaimana Ricelim mendukung nasi yang lebih tinggi serat?", "a": "Ricelim diformulasikan dengan serat pangan yang dicampurkan saat memasak nasi untuk membantu meningkatkan asupan serat harian."},
+        {"q": "Bagaimana cara konsumsi Ricelim?", "a": "Gunakan 1 sendok makan per 1 gelas nasi yang dimasak, larutkan di air atau aduk langsung di rice cooker, lalu masak nasi seperti biasa."},
+        {"q": "Apakah Ricelim mengubah rasa nasi?", "a": "Menurut halaman produk BloomLab, nasi tetap terasa pulen, lembut, dan aroma asli nasi tetap terjaga."}
+      ]
+    }
+  ],
+  "ingredients": [
+    {"name": "Inulin", "benefit": "Serat prebiotik untuk makanan bakteri baik di usus.", "simple": "Membantu mendukung rutinitas serat dan kesehatan usus.", "productIds": ["metabloom", "lunabloom"]},
+    {"name": "Psyllium Husk", "benefit": "Serat yang mengembang saat terkena air dan cocok diminum sebelum makan.", "simple": "Membantu rasa penuh dan rutinitas serat.", "productIds": ["metabloom", "lunabloom"]},
+    {"name": "FOS", "benefit": "Serat prebiotik untuk makanan bakteri baik di usus.", "simple": "Mendukung ekosistem bakteri baik.", "productIds": ["metabloom"]},
+    {"name": "Polifenol", "benefit": "Dukungan bahan nabati untuk rutinitas sehat harian.", "simple": "Komponen nabati pendukung rutinitas sehat.", "productIds": ["metabloom"]},
+    {"name": "Fish Collagen Tripeptide", "benefit": "Kolagen premium untuk mendukung nutrisi kulit dari dalam.", "simple": "Bahan kolagen untuk rutinitas beauty.", "productIds": ["lunabloom"]},
+    {"name": "Glutathione", "benefit": "Dipasangkan dengan vitamin C untuk dukungan brightening alami.", "simple": "Pendukung rutinitas kulit cerah dari dalam.", "productIds": ["lunabloom"]},
+    {"name": "Vitamin C", "benefit": "Dipasangkan dengan glutathione pada LunaBloom untuk dukungan brightening alami.", "simple": "Vitamin pendukung rutinitas beauty.", "productIds": ["lunabloom"]},
+    {"name": "Kefir", "benefit": "Probiotik alami untuk mendukung mikrobioma usus.", "simple": "Bahan probiotik untuk rutinitas pencernaan.", "productIds": ["gutreset", "hercycle", "tummyzen", "urazen", "supagreen"]},
+    {"name": "Kunyit", "benefit": "Bahan herbal pada TummyZen untuk mendukung kenyamanan saluran pencernaan.", "simple": "Herbal untuk rutinitas lambung sensitif.", "productIds": ["tummyzen"]},
+    {"name": "Temulawak", "benefit": "Bahan herbal pada TummyZen untuk dukungan rutinitas pencernaan.", "simple": "Herbal pendukung rutinitas pencernaan.", "productIds": ["tummyzen"]},
+    {"name": "Daun Saga", "benefit": "Bahan herbal pada TummyZen untuk mendukung kenyamanan lambung sensitif.", "simple": "Herbal untuk kenyamanan lambung.", "productIds": ["tummyzen"]},
+    {"name": "Sidaguri", "benefit": "Bahan herbal pada UraZen untuk rutinitas nutrisi terkait asam urat.", "simple": "Herbal pendukung rutinitas asam urat.", "productIds": ["urazen"]},
+    {"name": "Daun Salam", "benefit": "Bahan herbal pada UraZen untuk rutinitas nutrisi orang yang memperhatikan kadar asam urat.", "simple": "Herbal pendukung rutinitas asam urat.", "productIds": ["urazen"]},
+    {"name": "Seledri", "benefit": "Bahan herbal pada UraZen untuk mendukung kenyamanan tubuh sebagai bagian dari pola makan dan hidrasi.", "simple": "Herbal untuk rutinitas nutrisi.", "productIds": ["urazen"]},
+    {"name": "Kumis Kucing", "benefit": "Bahan herbal pada UraZen dalam rutinitas nutrisi terkait asam urat.", "simple": "Herbal pendukung rutinitas asam urat.", "productIds": ["urazen"]},
+    {"name": "Green Barley Grass", "benefit": "Asupan hijau harian pada Supagreen.", "simple": "Nutrisi hijau praktis.", "productIds": ["supagreen"]},
+    {"name": "Moringa", "benefit": "Sayuran/nutrisi hijau pada Supagreen dan HerCycle.", "simple": "Bahan hijau untuk rutinitas harian.", "productIds": ["supagreen", "hercycle"]},
+    {"name": "Kale", "benefit": "Sayuran hijau pada Supagreen.", "simple": "Asupan hijau harian.", "productIds": ["supagreen"]},
+    {"name": "Spinach", "benefit": "Sayuran hijau pada Supagreen.", "simple": "Asupan hijau harian.", "productIds": ["supagreen"]},
+    {"name": "Fenugreek", "benefit": "Bahan pada HerCycle untuk rutinitas wanita.", "simple": "Bahan herbal/nutrisi untuk rutinitas wanita.", "productIds": ["hercycle"]},
+    {"name": "Kedelai Panggang", "benefit": "Bahan pada HerCycle untuk dukungan rutinitas wanita.", "simple": "Nutrisi berbasis kedelai untuk rutinitas wanita.", "productIds": ["hercycle"]},
+    {"name": "Kacang Hijau", "benefit": "Bahan pada HerCycle untuk rutinitas wanita.", "simple": "Nutrisi pendukung rutinitas wanita.", "productIds": ["hercycle"]},
+    {"name": "Kakao", "benefit": "Bahan pada HerCycle untuk rutinitas wanita.", "simple": "Bahan rasa/nutrisi dalam formula HerCycle.", "productIds": ["hercycle"]},
+    {"name": "Serat Pangan", "benefit": "Serat tambahan untuk nasi pada Ricelim.", "simple": "Membantu menambah serat pada rutinitas makan nasi.", "productIds": ["ricelim"]},
+    {"name": "L-Carnitine", "benefit": "Perlu dilengkapi oleh tim BloomLab.", "simple": "Belum terpetakan ke produk pada data publik saat ini.", "productIds": []},
+    {"name": "Ashwagandha", "benefit": "Perlu dilengkapi oleh tim BloomLab.", "simple": "Belum terpetakan ke produk pada data publik saat ini.", "productIds": []},
+    {"name": "Tongkat Ali", "benefit": "Perlu dilengkapi oleh tim BloomLab.", "simple": "Belum terpetakan ke produk pada data publik saat ini.", "productIds": []},
+    {"name": "Vitamin D3", "benefit": "Perlu dilengkapi oleh tim BloomLab.", "simple": "Belum terpetakan ke produk pada data publik saat ini.", "productIds": []},
+    {"name": "Magnesium", "benefit": "Perlu dilengkapi oleh tim BloomLab.", "simple": "Belum terpetakan ke produk pada data publik saat ini.", "productIds": []}
+  ],
+  "complaintRecommendations": [
+    {"complaint": "Berat badan", "productIds": ["metabloom", "ricelim", "gutreset"], "reason": "Fokus pada rutinitas serat, rasa kenyang, pencernaan, dan makan lebih sadar serat."},
+    {"complaint": "Sulit BAB", "productIds": ["metabloom", "gutreset", "ricelim"], "reason": "Produk dipilih karena terkait rutinitas serat dan dukungan pencernaan harian."},
+    {"complaint": "Asam lambung", "productIds": ["tummyzen"], "reason": "TummyZen diposisikan sebagai dukungan probiotik herbal untuk lambung sensitif."},
+    {"complaint": "Perut buncit", "productIds": ["gutreset", "metabloom", "tummyzen", "supagreen"], "reason": "Rekomendasi berfokus pada rutinitas pencernaan, rasa begah, serat, dan dukungan lambung sensitif."},
+    {"complaint": "Kulit kusam", "productIds": ["lunabloom", "supagreen", "gutreset"], "reason": "Rekomendasi berfokus pada nutrisi kulit dari dalam, asupan hijau, dan gut health."},
+    {"complaint": "Jerawat", "productIds": ["lunabloom", "hercycle", "gutreset"], "reason": "Rekomendasi berfokus pada dukungan nutrisi kulit, rutinitas wanita, dan kesehatan usus."},
+    {"complaint": "Imunitas", "productIds": ["gutreset", "supagreen"], "reason": "Rekomendasi berfokus pada probiotik dan asupan hijau harian sebagai rutinitas pendukung."},
+    {"complaint": "Stress", "productIds": ["hercycle", "gutreset"], "reason": "Rekomendasi berfokus pada mood/PMS, gut health, dan rutinitas harian. Bukan pengganti dukungan medis/psikologis."},
+    {"complaint": "Sulit tidur", "productIds": ["gutreset", "tummyzen"], "reason": "Rekomendasi berfokus pada rutinitas pencernaan dan kenyamanan lambung yang bisa memengaruhi kenyamanan tidur."},
+    {"complaint": "Menopause", "productIds": [], "reason": "Perlu dilengkapi oleh tim BloomLab. Belum ada produk yang terpetakan secara eksplisit di data publik."},
+    {"complaint": "PMS", "productIds": ["hercycle"], "reason": "HerCycle diposisikan untuk rutinitas wanita satu siklus penuh dan PMS yang lebih terkendali."},
+    {"complaint": "UTI", "productIds": [], "reason": "Perlu dilengkapi oleh tim BloomLab. Belum ada produk yang terpetakan secara eksplisit di data publik."},
+    {"complaint": "Libido pria", "productIds": [], "reason": "Perlu dilengkapi oleh tim BloomLab. Belum ada produk yang terpetakan secara eksplisit di data publik."}
+  ],
+  "globalFaq": [
+    {"q": "Apa bedanya MetaBloom dan RiceLim?", "a": "MetaBloom adalah minuman serat prebiotik per sachet untuk membantu rasa penuh sebelum makan dan rutinitas diet serat. RiceLim adalah serat tambahan yang dicampurkan saat memasak nasi untuk menambah serat pada rutinitas makan keluarga."},
+    {"q": "Apa bedanya GutReset dengan TummyZen?", "a": "GutReset berfokus pada probiotik triple kefir untuk keseimbangan mikrobioma dan rutinitas pencernaan. TummyZen menggabungkan kefir dengan kunyit, temulawak, dan daun saga untuk dukungan lambung sensitif."},
+    {"q": "Kapan waktu minum produk BloomLab?", "a": "Tergantung produk. MetaBloom/LunaBloom diminum sebelum makan, GutReset paling baik setelah makan, TummyZen/UraZen idealnya 30 menit sebelum makan atau setelah makan jika lambung sensitif, Supagreen pagi/siang, dan RiceLim dicampur saat memasak nasi."},
+    {"q": "Boleh diminum ibu hamil atau menyusui?", "a": "Untuk ibu hamil/menyusui, konsultasikan dulu dengan dokter, bidan, atau tenaga kesehatan sebelum konsumsi produk apa pun."},
+    {"q": "Boleh diminum penderita diabetes?", "a": "Jika memiliki diabetes atau kondisi metabolik, gunakan produk hanya sebagai bagian dari pola makan yang disetujui tenaga kesehatan. Produk bukan pengganti terapi medis."},
+    {"q": "Apakah produk BloomLab sudah BPOM?", "a": "Status legal berbeda per produk. MetaBloom dan LunaBloom tercatat BPOM + Halal. Beberapa produk lain tercatat PIRT/SPP-IRT. Nomor dan status terbaru perlu diverifikasi ulang oleh tim BloomLab sebelum digunakan sales."},
+    {"q": "Apakah halal?", "a": "MetaBloom dan LunaBloom tercatat Halal pada halaman produk. Status halal produk lain perlu dilengkapi/verifikasi oleh tim BloomLab."},
+    {"q": "Apakah produk ini obat?", "a": "Tidak. Produk BloomLab adalah suplemen/rutinitas nutrisi, bukan obat, dan tidak ditujukan untuk mendiagnosis, mengobati, menyembuhkan, atau mencegah penyakit."}
+  ]
+}
